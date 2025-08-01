@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Loded.qml</file>
+    </qresource>
+</RCC>
